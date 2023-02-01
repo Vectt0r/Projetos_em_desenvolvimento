@@ -3,7 +3,7 @@ Repositório Destinado a Projetos em Andamento.
 
 ==========================================
 
-- Em Andamento
+> Em Andamento <
 
 * Calculadora JavaScript
 * Sistema Controle de Estoque (CRUD)
