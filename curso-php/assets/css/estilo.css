@@ -76,6 +76,8 @@ box-shadow: 5px 6px 7px -1px rgba(0,0,0,0.75);
 
 .modulo {
     flex-basis: 32%;
+    margin-bottom: 20px;
+    border-radius: 5px;
 }
 
 .modulo > h3 {
@@ -108,3 +110,9 @@ box-shadow: 5px 6px 7px -1px rgba(0,0,0,0.75);
 .modulo > ul > li:hover {
     background-color: #EEE;
 }
+
+.modulo.roxo { border: 2px solid #6153dd}
+.modulo.roxo > h3 { background-color: #6153dd }
+
+
+
